@@ -1,0 +1,24 @@
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\Tip Calculator - Desktop.exe.config
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\Tip Calculator - Desktop.exe
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\Tip Calculator - Desktop.pdb
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\Tip Calculator - Desktop.csprojResolveAssemblyReference.cache
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\Tip_Calculator___Desktop.frmTipCalculator.resources
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\Tip_Calculator___Desktop.Properties.Resources.resources
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\Tip Calculator - Desktop.csproj.GenerateResource.Cache
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\Tip Calculator - Desktop.exe
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\Tip Calculator - Desktop.pdb
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\Tip_Calculator___Desktop.frmReportViewer.resources
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\RdlCompile.cache
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator - Desktop\Tip Calculator - Desktop\obj\Debug\RdlCompile.compiled
